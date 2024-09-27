@@ -8,6 +8,8 @@ cap.set(3, frameWidth)
 cap.set(4, frameHeight) 
 cap.set(10, 150)  
 
+
+#replace this with the hue,val,sat of the color that you want e.g fingertip na may marking na orange, takip ng marker na kulay pink (use colorpicker.py)
 myColor = [0, 81, 255, 179, 255, 255]
 myColorValue = [51, 153, 255]
 

@@ -1,3 +1,6 @@
+#find the color of the "tip" dapat ayun lang yung mag wwhite
+
+
 import cv2
 import numpy as np
 
