@@ -70,6 +70,7 @@ while True:
     cv2.putText(img, f'FPS: {int(volPer)}', (40,450), cv2.FONT_HERSHEY_COMPLEX, 1, (255,0,0),2)
 
 
+
     cTime = time.time()
     fps = 1/(cTime-pTime)
     pTime = cTime
