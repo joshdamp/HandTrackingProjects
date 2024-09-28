@@ -14,7 +14,7 @@ vol = 0
 volBar = 400
 volPer = 0
 
-detector = htm.handDetector(detectionCon=0.75)
+detector = htm.handDetector(detectionCon=0.72)
 
 devices = AudioUtilities.GetSpeakers()
 interface = devices.Activate(
